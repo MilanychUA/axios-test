@@ -11,7 +11,7 @@ const Main = () => {
   const [numberOfPages, setNumberOfPages] = useState(1); // Total Number of pages on screen
 
   // How much we wont to display posts on one page
-  const [numberOfPostsOnPage, setNumberOfPostsOnPage] = useState(22);
+  const [numberOfPostsOnPage, setNumberOfPostsOnPage] = useState(4);
 
   //   const selectedUser = userIdInsert ? "?userId=" + userIdInsert : "";
   //   console.log(selectedUser);
